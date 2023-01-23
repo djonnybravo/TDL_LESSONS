@@ -6,3 +6,22 @@
 .App > div {
   margin-right: 50px;
 }
+
+
+.task-done {
+  text-decoration: line-through;
+}
+
+
+.taskNOTdone {
+  font-weight: bold;
+}
+
+
+.activeBtnFilter {
+  background-color: lightblue;
+  border: 1px solid burlywood;
+}
+.input-error {
+  border: 2px solid red
+}
